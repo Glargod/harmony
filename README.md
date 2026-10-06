@@ -12,6 +12,8 @@ A year later, in The Hague, the living are not asked who is guilty. They are ask
 
 ---
 
-Read it here: [EPUB](The%20Harmony%20of%20Echoes%20_%20Sorrow%20s%20Redemption.epub) · [PDF](The%20Harmony%20of%20Echoes%20_%20Sorrow%20s%20Redemption.pdf) · [HTML](The_Harmony_of_Echoes_Sorrow_s_Redemption.html)
+Revised edition, October 2026: [PDF](The_Harmony_of_Echoes_Revised.pdf) · [HTML](The_Harmony_of_Echoes_Revised.html)
 
-A cross-check of that July 2025 manuscript is in [REVIEW.md](REVIEW.md).
+The July 2025 text is unchanged: [EPUB](The%20Harmony%20of%20Echoes%20_%20Sorrow%20s%20Redemption.epub) · [PDF](The%20Harmony%20of%20Echoes%20_%20Sorrow%20s%20Redemption.pdf) · [HTML](The_Harmony_of_Echoes_Sorrow_s_Redemption.html)
+
+A cross-check of that July manuscript is in [REVIEW.md](REVIEW.md).
