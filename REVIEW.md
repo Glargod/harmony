@@ -29,3 +29,7 @@ Jim is introduced as the coder who might patch the mess, then recedes. The intro
 The manuscript is a parable with a hard number in the middle, and that number is what makes it worth keeping. It is not yet a novel that trusts a scene to change. Cut the repeated gestures, let one city resist in full, and decide whether Jim is a protagonist or a prologue. The question at The Hague can stand. The path to it cannot stay this even.
 
 **3.5 / 5.** A necessary question, still wearing its template.
+
+## Correction, 5 October 2026
+
+The repetition was intentional. Practice makes perfect. A result drilled over and over becomes core memory. The pass that called the returning cities, the number, and the creed a template error was a misreading. The revised edition now restores the drill. What was not the drill — the HTML title still reading “IMAC Call Closing Template,” the missing cover image — remains a file problem, not a lesson.
